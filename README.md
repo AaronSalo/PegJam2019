@@ -20,3 +20,4 @@ Below you can see the mechanic of splitting into the two worlds.
 The green slime only runs into green obstacles. The purple slime only runs into the purple obstacles.
 
 The game has 4 full fledged levels with different mechanics in each, a title and level select screen.
+ 
